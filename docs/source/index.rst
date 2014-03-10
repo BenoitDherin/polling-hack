@@ -6,6 +6,8 @@
 Welcome to polling-hack's documentation!
 ========================================
 
+Hello
+
 Contents:
 
 .. toctree::
